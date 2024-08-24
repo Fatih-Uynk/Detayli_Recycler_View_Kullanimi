@@ -42,7 +42,7 @@ Bu projeyi yerel ortamınıza kurmak için aşağıdaki adımları izleyin:
 1. Bu repository'yi klonlayın:
 
     ```bash
-    git clone https://github.com/kullanici_adi/detaylirvkullanimi.git
+    git clone https://github.com/Fatih-Uynk/detaylirvkullanimi.git
     ```
 
 2. Android Studio'da projeyi açın.
